@@ -1,0 +1,9 @@
+First Test Score = int (import('First_Score '))
+Second Test Score = int (import('Second_Score '))
+Third Test Score = int (import('Third_Score'))
+
+average = (First Test Score + Second Test Score + Third Test Score 1/3)
+
+print(average)
+if average : 95
+    print('Congratulations the user')
